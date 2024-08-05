@@ -1,0 +1,85 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "customerName": "John Doe",
+      "product": "Laptop",
+      "quantity": 2,
+      "status": "Shipped",
+      "date": "2023-07-01T10:00:00Z",
+      "price": 29.5
+    },
+    {
+      "id": "3",
+      "customerName": "Bob Johnson",
+      "product": "TV",
+      "quantity": 3,
+      "status": "Pending",
+      "date": "2023-07-10T14:00:00Z",
+      "price": 49.9
+    },
+    {
+      "id": "4",
+      "customerName": "Alice Brown",
+      "product": "Tablet",
+      "quantity": 2,
+      "status": "Shipped",
+      "date": "2023-07-12T16:00:00Z",
+      "price": 79.9
+    },
+    {
+      "id": "5",
+      "customerName": "Mike Davis",
+      "product": "Headphones",
+      "quantity": 1,
+      "status": "Delivered",
+      "date": "2023-07-15T18:00:00Z",
+      "price": 19.9
+    },
+    {
+      "id": "6",
+      "customerName": "Emily Johnson",
+      "product": "Smartwatch",
+      "quantity": 2,
+      "status": "Pending",
+      "date": "2023-07-18T20:00:00Z",
+      "price": 29.9
+    },
+    {
+      "id": "7",
+      "customerName": "Sarah Lee",
+      "product": "Speaker",
+      "quantity": 1,
+      "status": "Shipped",
+      "date": "2023-07-20T22:00:00Z",
+      "price": 39.9
+    },
+    {
+      "id": "8",
+      "customerName": "Tom Harris",
+      "product": "Monitor",
+      "quantity": 3,
+      "status": "Delivered",
+      "date": "2023-07-22T00:00:00Z",
+      "price": 99.9
+    },
+    {
+      "id": "9",
+      "customerName": "Lily Chen",
+      "product": "Printer",
+      "quantity": 2,
+      "status": "Pending",
+      "date": "2023-07-25T02:00:00Z",
+      "price": 29.9
+    },
+    {
+      "id": "10",
+      "customerName": "Oliver Brown",
+      "product": "Gaming Console",
+      "quantity": 1,
+      "status": "Shipped",
+      "date": "2023-07-28T04:00:00Z",
+      "price": 299.9
+    }
+  ]
+}
